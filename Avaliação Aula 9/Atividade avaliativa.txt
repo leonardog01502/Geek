@@ -1,0 +1,15 @@
+Cliente 
+--> nome
+--> cpf
+--> telefone
+Produto
+--> nome
+--> tipo
+-->quantidade
+--> valor
+
+
+Vendas 
+
+
+entraga 13/12
